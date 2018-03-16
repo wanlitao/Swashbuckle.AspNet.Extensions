@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCP.Swashbuckle.Core.Versioning", "src\FCP.Swashbuckle.Core.Versioning\FCP.Swashbuckle.Core.Versioning.csproj", "{9ACEBB3B-A0EE-438A-B70C-EFEC7468CCFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCP.Swashbuckle.Core", "src\FCP.Swashbuckle.Core\FCP.Swashbuckle.Core.csproj", "{30881A81-2B11-4752-A787-06160194E813}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ACEBB3B-A0EE-438A-B70C-EFEC7468CCFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ACEBB3B-A0EE-438A-B70C-EFEC7468CCFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ACEBB3B-A0EE-438A-B70C-EFEC7468CCFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ACEBB3B-A0EE-438A-B70C-EFEC7468CCFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30881A81-2B11-4752-A787-06160194E813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30881A81-2B11-4752-A787-06160194E813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30881A81-2B11-4752-A787-06160194E813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30881A81-2B11-4752-A787-06160194E813}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C946469F-77C7-4F92-85D6-2F03D237E7EB}
+	EndGlobalSection
+EndGlobal
